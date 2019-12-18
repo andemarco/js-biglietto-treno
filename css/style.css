@@ -1,0 +1,26 @@
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  font-family: 'Montserrat', sans-serif;
+  background-image: url(https://filecdn.nonsprecare.it/wp-content/uploads/2018/03/come-risparmiare-biglietti-treno-costi-portale-lowcomotive-1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.container {
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  border: 3px solid black;
+  padding: 50px 10px;
+}
+h6 {
+  font-size: 36px;
+}
+h6 span {
+  color: darkgrey;
+}
